@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Coursera Project</title>
+</head>
+<body>
+    <nav>
+        <a href="https://www.example.com">Visit Example</a>
+    </nav>
+    <main>
+        <h1>Welcome to My Page</h1>
+        <h2>About This Project</h2>
+        <p>This is my final project for Coursera, showcasing my HTML skills.</p>
+        
+        <h3>My Favorite Things</h3>
+        <ul>
+            <li>Reading books</li>
+            <li>Traveling</li>
+            <li>Coding</li>
+        </ul>
+
+        <h3>Gallery</h3>
+        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="A serene beach with turquoise water and white sand" width="300">
+        <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e" alt="A lush green forest with sunlight streaming through trees" width="300">
+        <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b" alt="A cute puppy running on a grassy field" width="300">
+    </main>
+    <footer>
+        <p>Created by Tranbichtram</p>
+    </footer>
+</body>
+</html>
